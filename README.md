@@ -26,12 +26,11 @@ Some useful tips to help you get started:
 
 
 1. Minimized and inlined the whole style.css stylesheet.
-2. Make print.css async and place at the end of index.html file
-3. Make google font, analytics.js and perfmatters.js all async and place at the end of index.html file
-4. Move Google analytics object function to the end of index.html file
-5. Reduced pizzeria.jpg size and compressed
-6. Compressed profilepic.jpg
-7. Made the same adjustments to project-2048.html, project-webperf.html and project-mobile.html
+2. Make print.css to be available only  while printing
+3. Make google font, analytics.js and perfmatters.js all async 
+4. Reduced pizzeria.jpg size and compressed
+5. Compressed profilepic.jpg
+6. Made the similar adjustments to project-2048.html, project-webperf.html and project-mobile.html
 
 
 ####Part 2: Optimize Frames per Second in pizza.html
